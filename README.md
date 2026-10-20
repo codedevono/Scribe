@@ -1,6 +1,6 @@
 # Scribe
 
-Write one progress update, publish it to X and LinkedIn first, then YouTube, Instagram, Discord and GitHub.
+Write one progress update, publish it to LinkedIn, Discord and GitHub first. Instagram and others may follow.
 
 ## What it is
 
@@ -14,7 +14,7 @@ Planning. The base model comes first, then more platforms and features are added
 
 - Base model goal: write one update, attach media, choose platforms, publish with one click to a small set of platforms.
 - Later: more platforms, scheduling, better media handling, progress tracking.
-- Platforms: X and LinkedIn first. Later: GitHub, Discord, YouTube, Instagram.
+- Platforms: LinkedIn, Discord and GitHub first, because none of them needs a paid API as far as the docs show. Later: Instagram (more setup). X is on hold because its API costs money. YouTube has no API for community posts that I could find.
 - Tech stack: not decided yet.
 
 ## Repository layout
